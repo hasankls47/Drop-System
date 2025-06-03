@@ -13,8 +13,12 @@ CodeWorld Discord Drop System, Discord sunucunuzda otomatik olarak ödüllü "dr
 * **Etkileşimli Duyurular:** Yeni droplar, kazananlar ve kimsenin almadığı droplar için bilgilendirici mesajlar gönderir.
 
 ## 🖼️ Görsel Önizleme
-
-*(Buraya botun çalışma anlarından ekran görüntüleri ekleyebilirsiniz. Botun görsellerini (drop1.png, drop2.png vb.) bir resim barındırma servisine yükleyip veya GitHub reponuzda saklayıpMarkdown formatında `![Açıklama](URL)` şeklinde eklemeniz önerilir.)*
+<img src="https://fv5-3.files.fm/thumb_show.php?i=98jakpjedt&view&v=1&PHPSESSID=1700a090588820e3ba7a2b570595f252b7085dbe" width="45%"></img> 
+<img src="https://fv5-3.files.fm/thumb_show.php?i=rv2kchm3v7&view&v=1&PHPSESSID=1700a090588820e3ba7a2b570595f252b7085dbe" width="45%"></img> 
+<img src="https://fv5-3.files.fm/thumb_show.php?i=x76uxp3gpb&view&v=1&PHPSESSID=1700a090588820e3ba7a2b570595f252b7085dbe" width="45%"></img> 
+<img src="https://fv5-3.files.fm/thumb_show.php?i=g6dnjzmjfe&view&v=1&PHPSESSID=1700a090588820e3ba7a2b570595f252b7085dbe" width="45%"></img> 
+<img src="https://fv5-3.files.fm/thumb_show.php?i=4gz6d4ynhz&view&v=1&PHPSESSID=1700a090588820e3ba7a2b570595f252b7085dbe" width="45%"></img> 
+<img src="https://fv5-3.files.fm/thumb_show.php?i=bn8tb9j4sc&view&v=1&PHPSESSID=1700a090588820e3ba7a2b570595f252b7085dbe" width="45%"></img> 
 
 **Örnek Görüntüler:**
 
@@ -35,7 +39,7 @@ CodeWorld Discord Drop System, Discord sunucunuzda otomatik olarak ödüllü "dr
     * **Drop Kanalı:** Dropların gönderileceği metin kanalı.
     * **Drop Log Kanalı:** Drop etkinlikleriyle ilgili logların kaydedileceği metin kanalı.
     * **Etiketlenecek Drop Rolü:** Drop duyurularında etiketlenecek rol.
-    * **Destek Kanalı:** (İsteğe bağlı) Kullanıcıların ödüllerini talep edeceği veya soruları için başvuracağı kanal (`drop4.png`'de `#destek` kanalı örneği verilmiş).
+    * **Destek Kanalı:** (İsteğe bağlı) Kullanıcıların ödüllerini talep edeceği kanal (`drop4.png`'de `#destek` kanalı örneği verilmiş).
     * **Drop Gönderilme Sıklığı:** Dropların ne kadar sürede bir gönderileceği (örneğin, her 2 saatte bir).
     * **Drop Buton Süresi:** Kullanıcıların drop'a tıklamak için sahip olacağı süre (örneğin, 10 saniye).
 
@@ -64,3 +68,7 @@ Drop sisteminin temel ayarlarını yapılandırmanızı sağlar. Daha önce ayar
 * `butonsüresi:<saniye_cinsinden_süre>`: (Zorunlu) Drop butonunun aktif kalma süresini saniye olarak ayarlar. (Örn: `10` yazarsanız buton 10 saniye aktif kalır.)
 
 **Örnek Kullanım (`drop1.png`'deki gibi):**
+
+## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Destek Sunucusu
+[![DiscordBanner](https://invidget.switchblade.xyz/bVzwyxXbQ9)](https://discord.gg/bVzwyxXbQ9)
+
