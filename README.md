@@ -1,3 +1,5 @@
+* 30 ⭐ paylaşılcaktır.
+
 # CodeWorld Discord Drop System
 
 CodeWorld Discord Drop System, Discord sunucunuzda otomatik olarak ödüllü "drop" etkinlikleri düzenlemenizi sağlayan bir bottur. Kullanıcılarınızla etkileşimi artırmak ve topluluğunuza heyecan katmak için tasarlanmıştır. Belirli aralıklarla, ayarladığınız kanalda rastgele ödüller dağıtabilir ve ilk tıklayan üyenin ödülü kazanmasını sağlayabilirsiniz.
