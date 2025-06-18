@@ -72,5 +72,5 @@ Drop sisteminin temel ayarlarını yapılandırmanızı sağlar. Daha önce ayar
 **Örnek Kullanım (`drop1.png`'deki gibi):**
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Destek Sunucusu
-[![DiscordBanner](https://invidget.switchblade.xyz/bVzwyxXbQ9)](https://discord.gg/bVzwyxXbQ9)
+[![DiscordBanner](https://invidget.switchblade.xyz/X62tP3fGax)](https://discord.gg/X62tP3fGax)
 
